@@ -143,6 +143,7 @@ We love contributions! Whether you have ideas, suggestions, or bug reports, feel
 `macmon` is distributed under the MIT License. For more details, check out the LICENSE.
 
 ## 🔍 See also
+- [macmon-python](https://github.com/transformerlab/macmon-python) - Python Wrapper for macmon
 - [tlkh/asitop](https://github.com/tlkh/asitop) – Original tool. Python, requires sudo.
 - [dehydratedpotato/socpowerbud](https://github.com/dehydratedpotato/socpowerbud) – ObjectiveC, sudoless, no TUI.
 - [op06072/NeoAsitop](https://github.com/op06072/NeoAsitop) – Swift, sudoless.
